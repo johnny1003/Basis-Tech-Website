@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Arial;
+}
+body{
+  margin: auto;
+}
+#big{
+  padding: 20px;
+  background: lightgray;
+  margin: 20px;
+  border-radius: 5px;
+  border: 2px #000 solid;
+  width: 30%;
+
+}
+
+a{
+  color: black;
+}
